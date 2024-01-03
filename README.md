@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **SEC Financial Statements Data**
 
-- 🌱 I’m currently learning **Big Data Analytics and Cloud Computing**
-
-- 💬 Ask me about **Quantitative Investments**
+- 🌱 I’m currently learning **Big Data Engineering and Cloud Computing**
 
 - 📫 How to reach me **https://www.linkedin.com/in/srivenkatesh1999/**
 
